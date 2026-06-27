@@ -56,12 +56,14 @@
 
 ---
 
-### 🛒 POS (Point of Sale) System
-- MERN Stack Billing & Inventory Management
-- 🛍️ Product & Category Management
-- 💳 Billing & Invoice Generation
-- 📦 Stock & Inventory Tracking
-- 👤 User Authentication & Dashboard
+### 🛒 POS & Business Management System
+
+- PHP & MySQL based Business Management Solution
+- 📦 Inventory & Stock Management
+- 💳 GST Billing & Invoice Generation
+- 🛍️ Sales, Purchase & Customer Management
+- 📊 Reports, Analytics & Accounting Dashboard
+- 👥 Role-Based Authentication & Branch Management
 
 ---
 
