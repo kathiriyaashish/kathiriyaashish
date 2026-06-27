@@ -22,7 +22,8 @@
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,vite" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native"/>
 </p>
 
 ### ⚙️ Backend
@@ -38,25 +39,46 @@
 ### 🛠️ Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="48" alt="Expo"/>
+
 </p>
 
 ---
 
 ## 📱 Projects
 
+### 🏠 Siyaram Boys PG Website
+- Responsive Business Website for Boys PG
+- 🛏️ Room Listings & Amenities
+- 🖼️ Image Gallery & Location
+- 📞 Contact & Inquiry Form
+- 📱 Mobile-Friendly UI with React & Tailwind CSS
+
+---
+
+### 🛒 POS (Point of Sale) System
+- MERN Stack Billing & Inventory Management
+- 🛍️ Product & Category Management
+- 💳 Billing & Invoice Generation
+- 📦 Stock & Inventory Tracking
+- 👤 User Authentication & Dashboard
+
+---
+
 ### 🍱 Food Sharing Platform
-- MERN Stack project connecting Restaurants, NGOs & Volunteers  
-- 🔐 Role-based Authentication  
-- 🔄 Real-time Notifications  
-- 🧪 API Testing with Postman  
+- MERN Stack project connecting Restaurants, NGOs & Volunteers
+- 🔐 Role-based Authentication
+- 🔄 Real-time Notifications
+- 🧪 API Testing with Postman
 
 ---
 
 ### 👟 Shoe Store App *(Ongoing)*
-- React Native Mobile App  
-- 🛒 Cart & Checkout System  
-- 🎨 Clean UI Design  
-- 🔗 Backend API Integration  
+- React Native + Expo Mobile App
+- 🛒 Cart & Checkout System
+- 🎨 Modern & Responsive UI
+- 🔗 Backend API Integration
+- 📱 Cross-Platform (Android & iOS)
 
 ---
 
